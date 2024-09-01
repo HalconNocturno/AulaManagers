@@ -1,0 +1,7 @@
+{
+  "name": "Aula_Manager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
